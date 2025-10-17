@@ -76,5 +76,5 @@ DerivedDataCache/*
 
 .DS_Store
 
-Content/ResearchMegaPack/*
+#Content/ResearchMegaPack/*
 
